@@ -1,5 +1,5 @@
 //
-//  WLViewController.h
+//  WLChallengeTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Ryan Walker on 9/11/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface WLViewController : UIViewController
+@interface WLChallengeTableViewController : UITableViewController
 
 @end
